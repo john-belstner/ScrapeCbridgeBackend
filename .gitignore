@@ -1,0 +1,21 @@
+# IDE
+*.code-workspace
+
+# Python cache
+__pycache__
+
+# Log exports
+*.adi
+*.cbr
+*.log
+
+# SQlite3 files
+*.db
+*.csv
+
+# Jupyter Notebooks
+*.ipynb
+
+# Certs
+*.p12
+*.tq8
